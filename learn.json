@@ -4,7 +4,7 @@
 	"translations": ["es", "us"],
     "status": "published",
     "preview": "https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/thumb.png?raw=true",
-    "solution": "",
+    "solution": "https://github.com/breatheco-de/exercise-battleship-vanillajs/tree/solution",
     "difficulty": "intermediate",
     "syntax": "vanilla.js",
     "duration": "8",
