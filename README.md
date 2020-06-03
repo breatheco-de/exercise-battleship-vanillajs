@@ -2,6 +2,8 @@
 
 Write a battleship game using Vanilla.js
 
+![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
+
 ## 💻 Installation
 
 Start a new project using the Vanilla.js boilerplate.
