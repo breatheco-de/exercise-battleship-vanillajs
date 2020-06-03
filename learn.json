@@ -7,6 +7,7 @@
     "solution": "https://github.com/breatheco-de/exercise-battleship-vanillajs/tree/solution",
     "difficulty": "intermediate",
     "syntax": "vanilla.js",
+    "technologies": ["vanilla.js", "the-dom", "javascript", "html/css"],
     "duration": "8",
     "description": "Use your DOM knowledge, HTML/CSS and Javascript to create a battleship game for one person only"
 }
