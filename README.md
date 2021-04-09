@@ -21,7 +21,7 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
 ## 📝Instructions
 
-1. Create your HTML/CSS First, we recomend using a parent div with `display:flex` and `flex-wrap: wrap` (to allow multiple rows), the container must have 100 divs inside.
+1. Create your HTML/CSS. First, we recomend using a parent div with `display:flex` and `flex-wrap: wrap` (to allow multiple rows), the container must have 100 divs inside.
 2. After your HTML/CSS looks good, start thinking on how to make it dynamic using JS.
 3. To represent the gameBoard you can use a JS matrix like this:
 
@@ -48,4 +48,4 @@ let gameBoard = [
 
 ## 😎 Feeling confident?
 
-+ Try implementing a "showShips" function that shows the ship positoins when clicked.
++ Try implementing a "showShips" function that shows the ship positions when clicked.
