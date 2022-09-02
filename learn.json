@@ -9,5 +9,7 @@
     "syntax": "vanilla.js",
     "technologies": ["vanilla.js", "the-dom", "javascript", "html/css"],
     "duration": "8",
-    "description": "Use your DOM knowledge, HTML/CSS and Javascript to create a battleship game for one person only"
+    "description": "Use your DOM knowledge, HTML/CSS and Javascript to create a battleship game for one person only",
+    "autoPlay": false,
+    "projectType": "project"
 }
