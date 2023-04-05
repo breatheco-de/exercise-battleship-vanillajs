@@ -1,4 +1,6 @@
-# Battleship In Vanilla.js
+<!--hide-->
+# Acorazado en Vanilla.js
+<!--endhide-->
 
 Write a battleship game using Vanilla.js
 
@@ -19,7 +21,7 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-## 📝Instructions
+## 📝 Instructions
 
 1. Create your HTML/CSS. First, we recomend using a parent div with `display:flex` and `flex-wrap: wrap` (to allow multiple rows), the container must have 100 divs inside.
 2. After your HTML/CSS looks good, start thinking on how to make it dynamic using JS.

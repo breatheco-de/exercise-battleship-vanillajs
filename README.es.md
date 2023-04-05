@@ -1,7 +1,8 @@
-
+<!--hide-->
 # Battleship In Vanilla.js
+<!--endhide-->
 
-Crea un batalla naval usando Vanilla.js
+Crea una batalla naval usando Vanilla.js
 
 ![Demonstration of Battleship](https://github.com/breatheco-de/exercise-battleship-vanillajs/blob/master/preview.gif?raw=true)
 
@@ -17,7 +18,7 @@ git clone  https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
-## 📝Instrucciones
+## 📝 Instrucciones
 
 1. Crea tu HTML / CSS. Primero, te recomendamos usar un div padre con `display: flex` y` flex-wrap: wrap` (para permitir múltiples filas), el contenedor debe tener 100 divs adentro.
 2. Una vez que tu HTML / CSS se vea bien, comienza a pensar en cómo hacerlo dinámico usando JS.
